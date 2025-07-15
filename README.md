@@ -1,4 +1,4 @@
-# 11729_springboot252基于Springboot和vue的餐饮管理系统的设计与实现
+# 11729_：https://bysj.bsitem.com基于Springboot和vue的餐饮管理系统的设计与实现
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
